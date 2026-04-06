@@ -2,6 +2,8 @@
 
 My solutions to the 2023 System Programming (CSE4009) assignments at Hanyang University.  
 Only programming assignments are uploaded.  
+The lecture used CS;APP as a textbook.  
+I only uploaded what I programmed and didn't uploaded example input/output and shell driver files because of copyright.  
 Solutions may contain errors.
 
 ## Assignment 3 - ShellLab
